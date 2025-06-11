@@ -1,5 +1,5 @@
 import React from 'react';
-import { Github, Linkedin, Twitter, Pencil, Instagram } from 'lucide-react';
+import { Github, Linkedin, Twitter, Instagram } from 'lucide-react';
 
 export const HeroSection = () => {
 	return (
